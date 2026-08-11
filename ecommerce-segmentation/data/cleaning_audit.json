@@ -1,0 +1,17 @@
+{
+  "0_raw_rows": 541909,
+  "1_dropped_no_customer": 135080,
+  "2_dropped_cancellations": 8905,
+  "3_dropped_nonpositive_qty_price": 40,
+  "4_dropped_non_product_codes": 1547,
+  "5_dropped_duplicates": 5187,
+  "6_final_rows": 391150,
+  "retained_pct": 72.2,
+  "final_customers": 4334,
+  "final_orders": 18402,
+  "final_products": 3659,
+  "final_countries": 37,
+  "total_revenue": 8737227.64,
+  "date_min": "2010-12-01",
+  "date_max": "2011-12-09"
+}

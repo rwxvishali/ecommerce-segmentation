@@ -1,0 +1,56 @@
+{
+  "kpis": [
+    {
+      "label": "Total Revenue",
+      "value": "\u00a38.74M",
+      "sub": "2010-12-01 to 2011-12-09"
+    },
+    {
+      "label": "Customers",
+      "value": "4,334",
+      "sub": "18,402 orders"
+    },
+    {
+      "label": "Avg Order Value",
+      "value": "\u00a3475",
+      "sub": "across all markets"
+    },
+    {
+      "label": "Repeat Rate",
+      "value": "65.3%",
+      "sub": "4.25 orders/customer"
+    }
+  ],
+  "findings": [
+    "Revenue is highly concentrated: the top 20% of customers generate 74.6% of all revenue (\u00a36.52M).",
+    "KMeans isolates a VIP cluster of 686 customers (avg 13.94 orders, \u00a38,169 each) that alone drives 64.14% of revenue.",
+    "65.3% of customers are repeat buyers \u2014 a strong, retention-friendly base to build loyalty programs on.",
+    "The UK accounts for 82.9% of revenue; international markets (Netherlands, EIRE, Germany, France) are small but proven \u2014 a growth lever.",
+    "\u00a3510,265 of annual revenue sits in the 'At Risk (high value)' segment \u2014 195 formerly strong customers who have gone quiet."
+  ],
+  "recommendations": [
+    {
+      "segment": "Champions / VIP",
+      "action": "Protect & reward: early access, VIP tier, personal account care.",
+      "why": "984 customers \u2248 67.85% of revenue. Churn here is the single biggest financial risk."
+    },
+    {
+      "segment": "At Risk (high value)",
+      "action": "Win-back campaign: targeted re-engagement offer + 'we miss you' outreach.",
+      "why": "\u00a3510,265 of revenue at stake. Recovering just 20% is \u2248 \u00a3102,053/yr for the cost of one email campaign."
+    },
+    {
+      "segment": "Loyal / Potential Loyalists",
+      "action": "Nurture up: cross-sell bundles and a points program to push toward Champion status.",
+      "why": "Largest mid-tier group \u2014 the pipeline that replenishes the VIP base."
+    },
+    {
+      "segment": "Hibernating / Lost",
+      "action": "Low-cost reactivation only (automated flows); don't over-invest.",
+      "why": "946 customers but only 2.78% of revenue \u2014 cap spend and let most lapse."
+    }
+  ],
+  "notes": [
+    "Dec 2011 is a partial month (data ends 2011-12-09); its month-over-month drop is a data artifact, not a real decline."
+  ]
+}

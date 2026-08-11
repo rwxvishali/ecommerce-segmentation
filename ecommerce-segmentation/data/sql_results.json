@@ -1,0 +1,264 @@
+{
+  "monthly_revenue": [
+    {
+      "ym": "2010-12",
+      "revenue": 565199.56,
+      "orders": 1394,
+      "active_customers": 884,
+      "mom_growth_pct": NaN
+    },
+    {
+      "ym": "2011-01",
+      "revenue": 562682.91,
+      "orders": 983,
+      "active_customers": 739,
+      "mom_growth_pct": -0.4
+    },
+    {
+      "ym": "2011-02",
+      "revenue": 442293.59,
+      "orders": 992,
+      "active_customers": 757,
+      "mom_growth_pct": -21.4
+    },
+    {
+      "ym": "2011-03",
+      "revenue": 583143.85,
+      "orders": 1312,
+      "active_customers": 973,
+      "mom_growth_pct": 31.8
+    },
+    {
+      "ym": "2011-04",
+      "revenue": 454440.88,
+      "orders": 1139,
+      "active_customers": 853,
+      "mom_growth_pct": -22.1
+    },
+    {
+      "ym": "2011-05",
+      "revenue": 659242.49,
+      "orders": 1544,
+      "active_customers": 1054,
+      "mom_growth_pct": 45.1
+    },
+    {
+      "ym": "2011-06",
+      "revenue": 653264.92,
+      "orders": 1390,
+      "active_customers": 990,
+      "mom_growth_pct": -0.9
+    },
+    {
+      "ym": "2011-07",
+      "revenue": 591603.79,
+      "orders": 1321,
+      "active_customers": 946,
+      "mom_growth_pct": -9.4
+    },
+    {
+      "ym": "2011-08",
+      "revenue": 635514.38,
+      "orders": 1267,
+      "active_customers": 933,
+      "mom_growth_pct": 7.4
+    },
+    {
+      "ym": "2011-09",
+      "revenue": 938752.63,
+      "orders": 1739,
+      "active_customers": 1259,
+      "mom_growth_pct": 47.7
+    },
+    {
+      "ym": "2011-10",
+      "revenue": 1002326.56,
+      "orders": 1903,
+      "active_customers": 1361,
+      "mom_growth_pct": 6.8
+    },
+    {
+      "ym": "2011-11",
+      "revenue": 1136534.0,
+      "orders": 2642,
+      "active_customers": 1660,
+      "mom_growth_pct": 13.4
+    },
+    {
+      "ym": "2011-12",
+      "revenue": 512228.08,
+      "orders": 776,
+      "active_customers": 614,
+      "mom_growth_pct": -54.9
+    }
+  ],
+  "top_countries": [
+    {
+      "Country": "United Kingdom",
+      "revenue": 7242855.32,
+      "customers": 3916,
+      "pct_of_total": 82.9
+    },
+    {
+      "Country": "Netherlands",
+      "revenue": 283889.34,
+      "customers": 9,
+      "pct_of_total": 3.2
+    },
+    {
+      "Country": "EIRE",
+      "revenue": 257013.12,
+      "customers": 3,
+      "pct_of_total": 2.9
+    },
+    {
+      "Country": "Germany",
+      "revenue": 205381.15,
+      "customers": 94,
+      "pct_of_total": 2.4
+    },
+    {
+      "Country": "France",
+      "revenue": 183801.94,
+      "customers": 87,
+      "pct_of_total": 2.1
+    },
+    {
+      "Country": "Australia",
+      "revenue": 138103.81,
+      "customers": 9,
+      "pct_of_total": 1.6
+    },
+    {
+      "Country": "Spain",
+      "revenue": 55706.56,
+      "customers": 30,
+      "pct_of_total": 0.6
+    },
+    {
+      "Country": "Switzerland",
+      "revenue": 52441.95,
+      "customers": 21,
+      "pct_of_total": 0.6
+    },
+    {
+      "Country": "Japan",
+      "revenue": 37416.37,
+      "customers": 8,
+      "pct_of_total": 0.4
+    },
+    {
+      "Country": "Belgium",
+      "revenue": 36927.34,
+      "customers": 25,
+      "pct_of_total": 0.4
+    }
+  ],
+  "top_products": [
+    {
+      "StockCode": "23843",
+      "description": "PAPER CRAFT , LITTLE BIRDIE",
+      "units_sold": 80995,
+      "revenue": 168469.6
+    },
+    {
+      "StockCode": "22423",
+      "description": "REGENCY CAKESTAND 3 TIER",
+      "units_sold": 12374,
+      "revenue": 142264.75
+    },
+    {
+      "StockCode": "85123A",
+      "description": "WHITE HANGING HEART T-LIGHT HOLDER",
+      "units_sold": 36763,
+      "revenue": 100547.45
+    },
+    {
+      "StockCode": "85099B",
+      "description": "JUMBO BAG RED RETROSPOT",
+      "units_sold": 46078,
+      "revenue": 85040.54
+    },
+    {
+      "StockCode": "23166",
+      "description": "MEDIUM CERAMIC TOP STORAGE JAR",
+      "units_sold": 77916,
+      "revenue": 81416.73
+    },
+    {
+      "StockCode": "47566",
+      "description": "PARTY BUNTING",
+      "units_sold": 15279,
+      "revenue": 68785.23
+    },
+    {
+      "StockCode": "84879",
+      "description": "ASSORTED COLOUR BIRD ORNAMENT",
+      "units_sold": 35263,
+      "revenue": 56413.03
+    },
+    {
+      "StockCode": "23084",
+      "description": "RABBIT NIGHT LIGHT",
+      "units_sold": 27153,
+      "revenue": 51251.24
+    },
+    {
+      "StockCode": "22502",
+      "description": "PICNIC BASKET WICKER SMALL",
+      "units_sold": 1485,
+      "revenue": 47348.35
+    },
+    {
+      "StockCode": "79321",
+      "description": "CHILLI LIGHTS",
+      "units_sold": 9646,
+      "revenue": 46265.11
+    }
+  ],
+  "pareto_quintiles": [
+    {
+      "quintile": 1,
+      "customers": 867,
+      "revenue": 6518378.98,
+      "pct_of_revenue": 74.6
+    },
+    {
+      "quintile": 2,
+      "customers": 867,
+      "revenue": 1195857.93,
+      "pct_of_revenue": 13.7
+    },
+    {
+      "quintile": 3,
+      "customers": 867,
+      "revenue": 586294.77,
+      "pct_of_revenue": 6.7
+    },
+    {
+      "quintile": 4,
+      "customers": 867,
+      "revenue": 305889.44,
+      "pct_of_revenue": 3.5
+    },
+    {
+      "quintile": 5,
+      "customers": 866,
+      "revenue": 130806.52,
+      "pct_of_revenue": 1.5
+    }
+  ],
+  "repeat_rate": [
+    {
+      "total_customers": 4334,
+      "repeat_customers": 2829,
+      "repeat_rate_pct": 65.3,
+      "avg_orders_per_customer": 4.25
+    }
+  ],
+  "aov": [
+    {
+      "avg_order_value": 474.8
+    }
+  ]
+}
